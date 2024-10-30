@@ -1,5 +1,5 @@
 import argparse
-import socket  # noqa: F401
+import socket 
 import threading
 from pathlib import *
 

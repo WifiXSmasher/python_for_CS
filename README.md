@@ -9,3 +9,9 @@ This script can perform the following functionality:
 3. keep the server running for multipe requests using the concept of theading
 
 4. this scrit can also write a file in the machine for a "POST" type request
+
+5. i have used threading so that the server remains open until a "KEYBOARDINTERRUPT"
+
+6. this script also accept POST request.
+
+P.S: this script was made to complete the codecrafters challange of "making your own HTTP SERVER"
